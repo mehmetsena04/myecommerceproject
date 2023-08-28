@@ -1,0 +1,9 @@
+{
+    "php.format.rules.arrayInitializersNewLineAfterLastElement": true,
+    "editor.defaultFormatter": "zobo.php-intellisense",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    }
+}

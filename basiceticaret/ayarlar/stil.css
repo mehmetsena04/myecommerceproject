@@ -1,0 +1,73 @@
+html,
+body {
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', Arial, 'Helvetica Neue', sans-serif;
+    color: #646464;
+    background: #FFFFFF;
+    line-height: 1.5;
+    line-height: 1.5;
+    font-style: normal;
+    font-variant-numeric: normal;
+    text-decoration: none;
+    outline: 0;
+    border: 0;
+    font-size: 14px;
+}
+
+.mavialanmenusu a:link,
+.mavialanmenusu a:hover,
+.mavialanmenusu a:active,
+.mavialanmenusu a:visited {
+    font-family: 'Open Sans', Arial, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    color: #646464;
+    line-height: 1.5;
+    font-style: normal;
+    font-variant-numeric: normal;
+    text-decoration: none;
+
+}
+
+.anamenu a:link,
+.anamenu a:hover,
+.anamenu a:active,
+.anamenu a:visited {
+    font-family: 'Open Sans', Arial, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #646464;
+    font-weight: bold;
+    font-style: normal;
+    font-variant-numeric: normal;
+    text-decoration: none;
+
+}
+
+.altalanmenusu a:link,
+.altalanmenusu a:hover,
+.altalanmenusu a:active,
+.altalanmenusu a:visited {
+    font-family: 'Open Sans', Arial, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #646464;
+    font-weight: bold;
+    font-style: normal;
+    font-variant-numeric: normal;
+    text-decoration: none;
+
+}
+
+input,
+select,
+textarea {
+    margin-bottom: 5px;
+    width: 70%;
+    height: 30px;
+    padding: 0px 10px;
+
+}
